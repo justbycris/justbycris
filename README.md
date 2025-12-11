@@ -1,4 +1,4 @@
-# Hi! I'm Cristi 👋
+![Header](./nyc_skyline_header.svg)
 
 I'm a Designer and Frontend Developer based in New York City.
 
