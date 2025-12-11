@@ -15,7 +15,7 @@ I'm fascinated by effective design systems, large-scale products, and high-impac
 Outside of work, I follow tech trends and their impact on society. I also enjoy photography, gaming, and traveling.
 
 - 📫 How to reach me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/cristigtzname/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristigtzname/)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bycris.netlify.app/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a twin! 
