@@ -1,4 +1,4 @@
-# Hi! I'm Cris (https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/lottie.json)
+# Hi! I'm Cris <img src="./512.gif" width="30px" height="30px">
 
 I'm a Designer 🎨 and Frontend Developer 💻 based in New York City 🗽
 
