@@ -1,0 +1,123 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gradient Background (Sunset/Dusk) -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#764ba2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f093fb;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e0e7ff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#skyGradient)"/>
+  
+  <!-- Stars -->
+  <circle cx="100" cy="40" r="1.5" fill="white" opacity="0.8"/>
+  <circle cx="250" cy="60" r="1" fill="white" opacity="0.6"/>
+  <circle cx="400" cy="35" r="1.5" fill="white" opacity="0.9"/>
+  <circle cx="550" cy="50" r="1" fill="white" opacity="0.7"/>
+  <circle cx="700" cy="30" r="1.5" fill="white" opacity="0.8"/>
+  <circle cx="850" cy="55" r="1" fill="white" opacity="0.6"/>
+  <circle cx="1000" cy="40" r="1.5" fill="white" opacity="0.9"/>
+  <circle cx="1100" cy="65" r="1" fill="white" opacity="0.7"/>
+  
+  <!-- NYC Skyline Silhouette -->
+  <!-- Building 1 (Left) -->
+  <rect x="50" y="180" width="60" height="120" fill="#1a1a2e" opacity="0.9"/>
+  <rect x="55" y="185" width="10" height="10" fill="#ffd93d" opacity="0.3"/>
+  <rect x="70" y="185" width="10" height="10" fill="#ffd93d" opacity="0.4"/>
+  <rect x="85" y="185" width="10" height="10" fill="#ffd93d" opacity="0.3"/>
+  <rect x="55" y="200" width="10" height="10" fill="#ffd93d" opacity="0.4"/>
+  <rect x="70" y="200" width="10" height="10" fill="#ffd93d" opacity="0.3"/>
+  <rect x="85" y="200" width="10" height="10" fill="#ffd93d" opacity="0.4"/>
+  
+  <!-- Building 2 -->
+  <rect x="120" y="160" width="50" height="140" fill="#16213e" opacity="0.9"/>
+  <rect x="125" y="165" width="8" height="8" fill="#ffd93d" opacity="0.4"/>
+  <rect x="138" y="165" width="8" height="8" fill="#ffd93d" opacity="0.3"/>
+  <rect x="152" y="165" width="8" height="8" fill="#ffd93d" opacity="0.4"/>
+  
+  <!-- Building 3 (Taller) -->
+  <rect x="180" y="120" width="70" height="180" fill="#0f3460" opacity="0.9"/>
+  <rect x="190" y="130" width="12" height="12" fill="#ffd93d" opacity="0.5"/>
+  <rect x="210" y="130" width="12" height="12" fill="#ffd93d" opacity="0.4"/>
+  <rect x="230" y="130" width="12" height="12" fill="#ffd93d" opacity="0.5"/>
+  <rect x="190" y="150" width="12" height="12" fill="#ffd93d" opacity="0.4"/>
+  <rect x="210" y="150" width="12" height="12" fill="#ffd93d" opacity="0.5"/>
+  <rect x="230" y="150" width="12" height="12" fill="#ffd93d" opacity="0.4"/>
+  
+  <!-- Empire State Building (Center piece) -->
+  <rect x="280" y="80" width="80" height="220" fill="#1a1a2e" opacity="0.95"/>
+  <polygon points="300,80 320,50 340,80" fill="#1a1a2e" opacity="0.95"/>
+  <rect x="315" y="50" width="10" height="30" fill="#ffd93d" opacity="0.8"/>
+  <rect x="290" y="90" width="15" height="15" fill="#ffd93d" opacity="0.5"/>
+  <rect x="310" y="90" width="15" height="15" fill="#ffd93d" opacity="0.4"/>
+  <rect x="330" y="90" width="15" height="15" fill="#ffd93d" opacity="0.5"/>
+  <rect x="290" y="120" width="15" height="15" fill="#ffd93d" opacity="0.4"/>
+  <rect x="310" y="120" width="15" height="15" fill="#ffd93d" opacity="0.5"/>
+  <rect x="330" y="120" width="15" height="15" fill="#ffd93d" opacity="0.4"/>
+  
+  <!-- Building 4 -->
+  <rect x="370" y="140" width="60" height="160" fill="#16213e" opacity="0.9"/>
+  <rect x="380" y="150" width="10" height="10" fill="#ffd93d" opacity="0.4"/>
+  <rect x="395" y="150" width="10" height="10" fill="#ffd93d" opacity="0.3"/>
+  <rect x="410" y="150" width="10" height="10" fill="#ffd93d" opacity="0.4"/>
+  
+  <!-- Building 5 -->
+  <rect x="440" y="170" width="55" height="130" fill="#0f3460" opacity="0.9"/>
+  <rect x="448" y="180" width="9" height="9" fill="#ffd93d" opacity="0.3"/>
+  <rect x="462" y="180" width="9" height="9" fill="#ffd93d" opacity="0.4"/>
+  <rect x="476" y="180" width="9" height="9" fill="#ffd93d" opacity="0.3"/>
+  
+  <!-- One World Trade Center (Right side - tallest) -->
+  <rect x="520" y="60" width="90" height="240" fill="#1a1a2e" opacity="0.95"/>
+  <polygon points="545,60 565,30 585,60" fill="#1a1a2e" opacity="0.95"/>
+  <rect x="560" y="30" width="10" height="30" fill="#ffffff" opacity="0.9"/>
+  <rect x="535" y="75" width="15" height="15" fill="#ffd93d" opacity="0.5"/>
+  <rect x="555" y="75" width="15" height="15" fill="#ffd93d" opacity="0.4"/>
+  <rect x="575" y="75" width="15" height="15" fill="#ffd93d" opacity="0.5"/>
+  <rect x="535" y="100" width="15" height="15" fill="#ffd93d" opacity="0.4"/>
+  <rect x="555" y="100" width="15" height="15" fill="#ffd93d" opacity="0.5"/>
+  <rect x="575" y="100" width="15" height="15" fill="#ffd93d" opacity="0.4"/>
+  
+  <!-- Building 6 -->
+  <rect x="620" y="150" width="65" height="150" fill="#16213e" opacity="0.9"/>
+  <rect x="630" y="160" width="11" height="11" fill="#ffd93d" opacity="0.4"/>
+  <rect x="648" y="160" width="11" height="11" fill="#ffd93d" opacity="0.3"/>
+  <rect x="665" y="160" width="11" height="11" fill="#ffd93d" opacity="0.4"/>
+  
+  <!-- Building 7 -->
+  <rect x="695" y="180" width="50" height="120" fill="#0f3460" opacity="0.9"/>
+  <rect x="703" y="190" width="8" height="8" fill="#ffd93d" opacity="0.3"/>
+  <rect x="716" y="190" width="8" height="8" fill="#ffd93d" opacity="0.4"/>
+  <rect x="729" y="190" width="8" height="8" fill="#ffd93d" opacity="0.3"/>
+  
+  <!-- Building 8 -->
+  <rect x="755" y="160" width="60" height="140" fill="#1a1a2e" opacity="0.9"/>
+  <rect x="765" y="170" width="10" height="10" fill="#ffd93d" opacity="0.4"/>
+  <rect x="780" y="170" width="10" height="10" fill="#ffd93d" opacity="0.3"/>
+  <rect x="795" y="170" width="10" height="10" fill="#ffd93d" opacity="0.4"/>
+  
+  <!-- Building 9 -->
+  <rect x="825" y="190" width="45" height="110" fill="#16213e" opacity="0.9"/>
+  
+  <!-- Building 10 (Right edge) -->
+  <rect x="880" y="170" width="55" height="130" fill="#0f3460" opacity="0.9"/>
+  <rect x="890" y="180" width="9" height="9" fill="#ffd93d" opacity="0.3"/>
+  <rect x="905" y="180" width="9" height="9" fill="#ffd93d" opacity="0.4"/>
+  <rect x="918" y="180" width="9" height="9" fill="#ffd93d" opacity="0.3"/>
+  
+  <!-- Text -->
+  <text x="600" y="140" font-family="'Arial Black', Arial, sans-serif" font-size="56" font-weight="bold" fill="url(#textGradient)" text-anchor="middle">
+    Hi! I'm Cristi 👋
+  </text>
+  
+  <text x="600" y="180" font-family="Arial, sans-serif" font-size="22" fill="white" text-anchor="middle" opacity="0.95">
+    Designer 🎨 &amp; Frontend Developer 💻 | New York City 🗽
+  </text>
+</svg>
