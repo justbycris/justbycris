@@ -1,6 +1,6 @@
 # Hi! I'm Cris <img src="./512.gif" width="30px" height="30px">
 
-I'm a Designer 🎨 and Software Developer 💻 based in New York City 🗽
+I'm a Designer 🎨 and Software Engineer 💻 based in New York City 🗽
 
 I currently work as a Frontend Service Delivery Engineer at Persado, where I help global brands integrate our product to deliver data-driven personalized content that drives conversions 📈. Previously, I was a Designer and Web Developer at a news magazine 📰.
 
