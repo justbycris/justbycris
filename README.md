@@ -2,7 +2,7 @@
 
 I'm a Designer 🎨 and Software Engineer 💻 based in New York City 🗽
 
-I currently work as a Frontend Service Delivery Engineer at Persado, where I help global brands integrate our product to deliver data-driven personalized content that drives conversions 📈. Previously, I was a Designer and Web Developer at a news magazine 📰.
+I currently work as a Software Engineer at Persado, where I help global brands integrate our product to deliver data-driven personalized content that drives conversions 📈. Previously, I was a Designer and Web Developer at a news magazine 📰.
 
 I'm fascinated by effective design systems, large-scale products, and high-impact user experiences ✨. I've worked on projects serving 5M+ users 🌍 and have contributed to the design and development of A/B tested web and email campaigns for internationally recognized brands—from concept creation through production 🚀.
 
