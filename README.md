@@ -21,3 +21,5 @@ Outside of work, I follow tech trends and their impact on society 🤖. I also e
 
 **😄 Pronouns:** She/Her  
 **⚡ Fun fact:** I am a twin! 👯‍♀️
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justbycris)](https://github.com/justbycris/github-readme-stats)
