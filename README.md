@@ -22,7 +22,7 @@ Outside of work, I follow tech trends and their impact on society 🤖. I also e
 **😄 Pronouns:** She/Her  
 **⚡ Fun fact:** I am a twin! 👯‍♀️
 
-[![Cris's GitHub stats](https://github-readme-stats.vercel.app/api?username=justbycris)](https://github.com/justbycris/github-readme-stats)
+
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <picture>
