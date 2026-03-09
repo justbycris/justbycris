@@ -7,8 +7,8 @@ I currently work as a Software Engineer at Persado, where I help global brands i
 I'm fascinated by effective design systems, large-scale products, and high-impact user experiences ✨. I've worked on projects serving 5M+ users 🌍 and have contributed to the design and development of A/B tested web and email campaigns for internationally recognized brands—from concept creation through production 🚀.
 
 **What I work with:**
-- 🎯 Frontend: React, JavaScript, TypeScript, HTML/CSS
-- ⚙️ Backend: Node.js, Express.js, AWS, REST API, AMPscript SFMC 
+- 🎯 Frontend: React, JavaScript, TypeScript, HTML/CSS, Tailwind CSS
+- ⚙️ Backend: Node.js, Express.js, AWS, REST API, AMPscript, Python, Claude, AI Copilot 
 - 🎨 Design: Figma, Adobe XD, Photoshop, Illustrator, Sketch, Design Systems
 - 💡 Focus: Performance, UX/UI, accessibility, and scalable UI architecture
 
